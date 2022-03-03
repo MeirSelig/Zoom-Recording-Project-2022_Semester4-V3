@@ -52,7 +52,7 @@ a{
 a:link{
   color: rgba(120, 120, 120, 1); /*Dark Gray*/
 }
-a:hover,:active,:visited{
+a:hover,a:active,a:visited{
   color: rgba(120, 120, 120, 1); /*Dark Gray*/
 }
 
